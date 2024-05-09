@@ -1,0 +1,16 @@
+#brand{
+color: green;
+padding-top: 15;
+position: relative;
+top: -15px;
+}
+.navbar{
+    float: right;
+    position: relative;
+    top: -30px;
+    right: 300px;
+    word-spacing: 10;
+}
+#header{
+    background-color: aqua;
+}
